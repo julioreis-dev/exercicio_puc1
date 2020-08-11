@@ -1,2 +1,2 @@
 # exercicio_puc1
-Repositório com a resposta dos exercícios de fixação do curso de Python da Puc-RJ. Tal material tem por finalidad axiliar os alunos na resolução dos exercicios propostos
+Repositório com a resolução dos exercícios propostos no curso de python da PUC-RJ. As resoluções tem por finalidade auxiliar os demais alunos no processo de aprendizado da linguagem python.
